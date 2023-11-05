@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<h1>这里是 vic 的主页，仅为作业用</h1>
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=VViiccSShhaaww)
+https://img.shields.io/badge/python-3.9-orangehttps://img.shields.io/badge/python-3.9-orangehttps://img.shields.io/badge/python-3.9-orangehttps://img.shields.io/badge/python-3.9-orangehttps://img.shields.io/badge/python-3.9-orangehttps://img.shields.io/badge/python-3.9-orangehttps://img.shields.io/badge/python-3.9-orangehttps://img.shields.io/badge/python-3.9-orangehttps://img.shields.io/badge/python-3.9-orangehttps://img.shields.io/badge/python-3.9-orangehttps://img.shields.io/badge/python-3.9-orange
+<p>
+  哈哈
+</p>
 <!--
 **VViiccSShhaaww/VViiccSShhaaww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
